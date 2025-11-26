@@ -27,3 +27,5 @@ git clone https://github.com/georgedonnev2/jdtest.git
 # 进入目录
 cd jdtest
 ```
+
+需要帮助？查看我们的[安装指南](./installation.md)。
