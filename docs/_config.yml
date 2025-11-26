@@ -1,0 +1,22 @@
+title: "JDTest 文档"
+description: "JDTest 项目文档"
+base_url: "/jdtest"
+
+# 使用 GitHub Pages 兼容的主题配置
+theme: jekyll-theme-primer
+
+# 或者使用远程主题（推荐）
+remote_theme: just-the-docs/just-the-docs
+
+# 插件配置
+plugins:
+  - jekyll-remote-theme
+
+# 基本设置
+url: "https://georgedonnev2.github.io"
+repository: "georgedonnev2/jdtest"
+
+# 排除不必要的文件
+exclude:
+  - README.md
+  - LICENSE
