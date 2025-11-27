@@ -12,6 +12,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+
+
+
 # 基本设置
 url: "https://georgedonnev2.github.io"
 repository: "georgedonnev2/jdtest"
@@ -20,3 +23,12 @@ repository: "georgedonnev2/jdtest"
 exclude:
   - README.md
   - LICENSE
+
+## add by George, according to https://just-the-docs.com/docs/configuration/
+
+# Navigation sidebar
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+
