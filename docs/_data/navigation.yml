@@ -1,0 +1,8 @@
+- title: 首页
+  url: /
+- title: 安装指南
+  url: /installation/
+- title: 使用教程
+  url: /usage/
+- title: API 参考
+  url: /api/
