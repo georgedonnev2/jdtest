@@ -32,3 +32,6 @@ exclude:
 nav_enabled: true
 
 
+# Back to Top
+back_to_top: true
+back_to_top_text: "Back to top"
