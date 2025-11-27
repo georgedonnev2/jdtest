@@ -1,7 +1,7 @@
-- title: 首页        # 导航项标题
+- title: 首页HOME        # 导航项标题
   url: /            # 对应的链接地址
 
-- title: 安装指南
+- title: 安装指南Installation
   url: /installation/
 
 - title: 使用教程
