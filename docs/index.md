@@ -7,23 +7,23 @@ nav_order: 1
 <!-- 1. TOC
 {:toc} -->
 
-# In-Page Navigation
+<!-- # In-Page Navigation
 {: .no_toc }
 
 ## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc} -->
 
-<!-- <details open markdown="block">
+<details open markdown="block">
   <summary>
     Table of contents
   </summary>
   {: .text-delta }
 1. TOC
 {:toc}
-</details> -->
+</details>
 
 ## test callouts
 
@@ -45,8 +45,17 @@ something note3
 
 something new4
 
+{: .new}
+> Title of new
+> something new
+> something new2
+> 
+> something new3
 
+something new4
 
+{: .warning}
+> 请注意了
 
 
 # 欢迎访问 JDTest 文档

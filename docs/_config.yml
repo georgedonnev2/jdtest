@@ -69,3 +69,6 @@ callouts:
   highlight:
     title: 高亮
     color: yellow
+  new:
+    title: 新增
+    color: blue
