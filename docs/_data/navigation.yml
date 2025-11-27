@@ -1,8 +1,12 @@
-- title: 首页
-  url: /
+- title: 首页        # 导航项标题
+  url: /            # 对应的链接地址
+
 - title: 安装指南
   url: /installation/
+
 - title: 使用教程
   url: /usage/
-- title: API 参考
-  url: /api/
+
+- title: 项目GitHub仓库  # 外部链接示例
+  url: https://github.com/georgedonnev2/jdtest
+  external: true       # 设置为外部链接
