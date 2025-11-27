@@ -4,6 +4,9 @@ layout: default
 nav_order: 1
 ---
 
+1. TOC
+{:toc}
+
 # 欢迎访问 JDTest 文档
 
 这里是 JDTest 项目的文档中心。
