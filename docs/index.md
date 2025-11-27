@@ -54,6 +54,12 @@ something new4
 
 something new4
 
+{: .new}
+Title of new
+something new
+something new2
+
+something new3
 {: .warning}
 > 请注意了
 

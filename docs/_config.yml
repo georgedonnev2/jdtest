@@ -72,3 +72,6 @@ callouts:
   new:
     title: 新增
     color: blue
+  new-title:
+    title: 新增
+    color: blue
